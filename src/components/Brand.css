@@ -1,0 +1,14 @@
+.Button{
+    display: block;
+    text-align: center;
+    margin-top: 1.5rem;
+    
+}
+
+button{
+    height: 2rem;
+    width: 10rem;
+    background-color: #6c757d;
+    border-radius: 10%;
+    color: white;
+}
