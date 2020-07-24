@@ -3,13 +3,10 @@ import './BorderTop.css';
 
 function BorderTop() {
     return (
-      <div className="">
         <div className="BorderTop">
-          <p>BENPHONE</p>
-        </div>
-        
-        </div>
-      
+          <p>BENPHONE</p>       
+        </div>    
+            
     );
   }
   
